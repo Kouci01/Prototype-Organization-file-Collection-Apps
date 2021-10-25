@@ -1,0 +1,10 @@
+Keterangan pembukaan Fitur Prototype aplikasi PWNI Ariel Peaceo Gunawan 2301952874, 
+
+!!Note penting sebelum pembukaan file HTML:
+** Mohon untuk Bapak/Ibu Penguji pada saat akan melakukan extract file-file dalam rar untuk diextract semua filenya dalam satu folder yang sama guna dikarenakan adanya file-file yang terikat antar sama lainnya. Sekian Terimakasih sebesar-besarnya **
+
+1) Aplikasi dapat dimulai dengan membuka fitur Registrasi terlebih dahulu dan kemudian melanjutkan mengikuti alur yang diberikan oleh sistemnya. 
+2) Dimana pada fitur Registrasi dapat dilakuka test validasi-validasinya dan setelah selesai dapat dilanjutkan dengan melakukan penekanan tombol Register dan akan mendirect ke halaman fitur Login
+3) Pada fitur Login dapat dilakukan pencobaan validasi juga dan untuk data Dummy yang dapat digunakan adalah PWNI001 dan passwordnya PWNI01User.
+4) Setelah berhasil login, kemudian sistem akan meredirect secara otomatis ke fitur News Info yang telah terlogin. 
+5) Dari fitur News Info yang telah terlogin maka User dapat juga mencoba untuk melakukan upload File yang merupakan fitur khusus memang ditujukkan untuk User terdaftar.
